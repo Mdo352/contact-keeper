@@ -21,5 +21,13 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdo352/contact-keeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mdo352/contact-keeper/issues"
+  },
+  "homepage": "https://github.com/Mdo352/contact-keeper#readme"
 }
